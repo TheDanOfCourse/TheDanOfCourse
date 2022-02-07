@@ -1,6 +1,6 @@
  Hey there 👋
 
-🌱 I’m currently learning API Rest and AWS.<br>
+🌱 I’m currently learning API Rest and AWS Cloud.<br>
 👨‍💻 Working as IT Engineering Analyst at Itau Broker (Itaú Bank) mainly with .NET - (SP/Brazil)<br>
 📖 Computer Engineering student - Attending the 5º year of 5.
 _______
