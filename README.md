@@ -3,7 +3,10 @@
 🌱 I’m currently learning API Rest and AWS Cloud.<br>
 👨‍💻 Working as IT Engineering Analyst at Itau Broker (Itaú Bank) mainly with .NET - (SP/Brazil)<br>
 📖 Computer Engineering student - Attending the 5º year of 5.
+
 _______
+
+
 📫 How to reach me on social media:
 <div align=left >
  <a href="https://www.linkedin.com/in/danilogarciajr/">
@@ -21,7 +24,9 @@ _______
 
 </div>
 <br>
+
 _______
+
 
 🧰 Toolbox
 <div align=left >
@@ -31,7 +36,9 @@ _______
 <img src="https://user-images.githubusercontent.com/60882968/152867785-7ad853c4-b839-4dbe-8f4a-c9a9e9df7131.png" width="50" height="50">
  
 </div>
+
 ________
+
 
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDanOfCourse&show_icons=true&theme=dark)
