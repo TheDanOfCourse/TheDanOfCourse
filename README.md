@@ -12,11 +12,15 @@ _______
  <a href="https://www.linkedin.com/in/danilogarciajr/">
   <img src="https://user-images.githubusercontent.com/60882968/152870525-e87484d8-ae9d-4617-85a8-2562b014e550.png" alt="LinkedIn" style="width:40px;height:40px;">
  </a>
- &nbsp &nbsp 
+ &nbsp &nbsp
+ 
+ <!---
  <a href="https://www.instagram.com/dannjr_">
   <img src="https://user-images.githubusercontent.com/60882968/152870116-e84ba276-71a9-4cd1-aaef-9c25f04969ef.png" alt="Instagram" style="width:40px;height:40px;">
  </a>
- &nbsp &nbsp 
+ &nbsp &nbsp
+ -->
+ 
  <a href="https://github.com/TheDanOfCourse/">
   <img src="https://user-images.githubusercontent.com/60882968/152871158-e93fac12-65fb-4b4b-a685-1d279109b1d4.png" alt="Github" style="width:40px;height:40px;">
  </a>
